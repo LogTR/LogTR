@@ -17,7 +17,7 @@ Log parsing serves as the foundation for automated log analysis by transforming 
 - Successfully identified and repaired **493 templates** containing structural noise
 - Recovered **20 templates** lost due to over-merging
 - Refined **14.7%** of templates in LogHub-2.0
-- Released **LogHub-2.0R**, a refined benchmark dataset
+- Released **LogHub-2.0R(https://github.com/LogTR/LogHub-2.0R)**, a refined benchmark dataset
 
 ## Framework Architecture
 
